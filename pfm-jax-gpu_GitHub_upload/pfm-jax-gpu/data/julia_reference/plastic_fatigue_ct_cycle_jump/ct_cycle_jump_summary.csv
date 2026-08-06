@@ -1,0 +1,7 @@
+cycle_jump,status,final_cycle,final_time_s,final_delta_a_mm,n_points,case_dir
+50,ok,3150.0,2619.4287781715393,0.1863757301361595,63,/home/nizai6a/composite-paper/results_ct_cycle_jump/jump_050
+100,ok,16800.0,11719.62659907341,23.00598008159713,168,/home/nizai6a/composite-paper/results_ct_cycle_jump/jump_100
+150,ok,18450.0,8678.09854221344,36.0,123,/home/nizai6a/composite-paper/results_ct_cycle_jump/jump_150
+200,ok,19600.0,7058.5214920043945,36.0,98,/home/nizai6a/composite-paper/results_ct_cycle_jump/jump_200
+250,ok,20500.0,5970.375235080719,36.0,82,/home/nizai6a/composite-paper/results_ct_cycle_jump/jump_250
+300,ok,21000.0,5110.126782178879,23.17950333789244,70,/home/nizai6a/composite-paper/results_ct_cycle_jump/jump_300

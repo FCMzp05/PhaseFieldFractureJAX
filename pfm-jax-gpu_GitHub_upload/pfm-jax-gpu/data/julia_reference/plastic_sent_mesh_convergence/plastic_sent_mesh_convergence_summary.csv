@@ -1,0 +1,7 @@
+l0_over_h,status,final_cycle,final_time_s,final_delta_a_mm,n_points,case_dir
+1.0,ok,800,852.22995710,0.28456544,800,/home/nizai6a/composite-paper/results_plastic_sent_mesh/ratio_1p0
+2.0,ok,734,3565.07153320,0.40183574,734,/home/nizai6a/composite-paper/results_plastic_sent_mesh/ratio_2p0
+3.0,ok,651,8362.30718803,0.40024257,651,/home/nizai6a/composite-paper/results_plastic_sent_mesh/ratio_3p0
+4.0,ok,618,15590.34886193,0.40339912,618,/home/nizai6a/composite-paper/results_plastic_sent_mesh/ratio_4p0
+5.0,ok,593,27952.36160207,0.40218142,593,/home/nizai6a/composite-paper/results_plastic_sent_mesh/ratio_5p0
+6.0,ok,576,35795.53329802,0.40064713,576,/home/nizai6a/composite-paper/results_plastic_sent_mesh/ratio_6p0

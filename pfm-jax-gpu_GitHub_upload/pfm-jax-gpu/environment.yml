@@ -1,0 +1,16 @@
+name: pfm-gpu
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - meshio
+  - gmsh
+  - pip
+
+# Install GPU JAX after creating the environment, from WSL/Linux:
+#   python -m pip install -U "jax[cuda13]"
+# Native Windows JAX does not provide the NVIDIA CUDA backend.
