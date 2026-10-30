@@ -1,6 +1,6 @@
 # Matrix-Free JAX Phase-Field Fracture
 
-Standalone JAX/GPU and Julia/CPU phase-field fracture solvers used in the paper.
+Standalone JAX/GPU and Julia/CPU phase-field fracture solvers.
 Each solver in `code/` is a self-contained single file. Meshes are generated automatically unless `--mesh` is supplied.
 
 ## Install
